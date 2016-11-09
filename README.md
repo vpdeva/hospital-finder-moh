@@ -35,6 +35,6 @@ In terminal,
 ###Instructions: 
 PORT: 8080 
 
-Host:Localhost
+Host: Localhost
 
 Installing mondodb locally if you do not have that already. I have prepared this demo app on mongodb version 3.0.5 and node.js version 4.2.3, but it should work fine with older versions as well.
